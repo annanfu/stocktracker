@@ -2,6 +2,12 @@
 
 Stock Tracker is an application built on Streamlit framework, offering a user-friendly interface for tracking stock performance in the US market. It assists investors in decision-making by tracking and monitoring the stock data from various dimensions. It provides both tailored overview based on investor types, and customizable market overview for stock comparisons, enhancing the stock tracking experience for investors of different needs.
 
+## How to Run
+To run the application, please use the following command in your terminal:
+```
+pip install streamlit
+streamlit run app.py
+```
 
 ## Description of the REST API(s)
 
