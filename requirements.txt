@@ -1,0 +1,8 @@
+altair==5.1.2
+pandas==2.1.2
+pytest==7.4.3
+requests==2.31.0
+st-pages==0.4.5
+streamlit==1.29.0
+streamlit-option-menu==0.3.6
+streamlit-searchbox==0.1.6
